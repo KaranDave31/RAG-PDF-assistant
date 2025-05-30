@@ -25,4 +25,4 @@ This is the raw result of semantic similarity search from the vector database. W
 
 LLM Response
 Powered by the mistral-large-latest model, this answer was generated using the retrieved context but composed by the LLM into a structured and clear explanation. The response was structured into clear sections: definition, features, limitations, best practices, and Tableau instructions. This response condenses multiple chunks into a coherent, user-friendly explanation and adds a logical flow and improves readability significantly.
-![PDF Retrieval](llmresponse.png)
+![LLM Response](llm_response.png)
