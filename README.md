@@ -18,4 +18,4 @@ Major Features and Steps Involved:
 - Generate LLM responses grounded in the retrieved context
 
 Example:
-![PDF Retrieval] images.png
+![PDF Retrieval] (image.png)
