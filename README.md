@@ -17,5 +17,5 @@ Major Features and Steps Involved:
 - Retrieve relevant sections based on user queries
 - Generate LLM responses grounded in the retrieved context
 
-Example:
-![PDF Retrieval] (image.png)
+Example:  
+![PDF Retrieval](image.png)
